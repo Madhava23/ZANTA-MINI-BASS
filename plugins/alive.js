@@ -7,7 +7,7 @@ const CHANNEL_JID = "120363406265537739@newsletter";
 
 // --- 🖼️ IMAGE PRE-LOAD LOGIC ---
 let cachedAliveImage = null;
-
+ 
 async function preLoadAliveImage() {
     try {
         // මෙතනදී config එකේ තියෙන default image එක cache කරගන්නවා
