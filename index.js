@@ -42,7 +42,7 @@ const retryCount = {};
 
 global.activeSockets = new Set();
 global.BOT_SESSIONS_CONFIG = {};
-const MY_APP_ID = String(process.env.APP_ID || "1");
+const MY_APP_ID = String(process.env.APP_ID || "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=28dbe57fa4847023");
 
 // --------------------------------------------------------------------------
 // [SECTION: MONGODB DATABASE SCHEMA]
